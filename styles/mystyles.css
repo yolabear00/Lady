@@ -1,0 +1,45 @@
+body {
+    background-image: url("../images/dogbonesblue.jpg");
+    color: rgb(10, 6, 6);
+    font-size: 25px;
+}
+.masthead {
+    background-image: url('../images/blanketstretch.jpg') !important;
+}
+.site-heading {
+    position: absolute;
+    left: 19%;
+    width: 300px;
+    border: 5px solid rgb(214, 209, 209);
+    padding: 10px;  
+}
+.site-heading h1 {
+    font-family: "Brush Script MT", Helvetica, sans-serif;
+}
+.nav-link {
+    font-size: 200%;
+}
+.ad {
+    text-align: center;
+}
+.ladyphoto img {
+    display: block;
+    margin-left:0%;
+    margin-right: auto;
+    width: 50%;
+}
+.ladyphoto {
+    text-align:left;
+}
+.indexladyphoto img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.indexladyphoto {
+    text-align: center;
+}
+#mainNav .navbar-nav > li.nav-item > a.nav-link {
+    font-size: 1.25rem;
+}

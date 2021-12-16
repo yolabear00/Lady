@@ -1,0 +1,48 @@
+body {
+    background-color: rgb(113, 130, 207);
+}
+.menu {
+    resize: both;
+    overflow: auto;
+    color: blueviolet;
+    display: flex;
+    border: dashed 3px rgb(227, 233, 235);
+    background-color: black;
+    color: white;
+    flex-direction: row;
+}
+.menu li {
+    text-align: center;
+    padding: 5px 5px;
+    height: 45px;
+    flex-grow: 3;
+    list-style: none;
+}
+.menu li a {
+    color: white;
+    text-decoration: none;
+    font-size: x-large;
+}
+.menu li a:hover {
+    font-size: 30px;
+}
+.tableauad {
+    font-family: Verdana, Tahoma, sans-serif;
+    font-size: 95%;
+}
+.tableauad a {
+    color: rgb(35, 102, 35);
+}
+.contactinfo {
+    text-align: center;
+}
+.phonenumber {
+    text-align: center;
+}
+.email {
+    text-align: center;
+}
+.copyright {
+    color: black;
+    text-align: center;
+}
