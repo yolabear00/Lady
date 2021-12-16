@@ -3,8 +3,11 @@ body {
     color: rgb(10, 6, 6);
     font-size: 25px;
 }
-.masthead {
-    background-image: url('../images/blanketstretch.jpg') !important;
+#home-masthead {
+    background-image: url('../images/blanketstretch.jpg');
+}
+#about-masthead {
+    background-image: url('../images/foodhappy.jpg');
 }
 .site-heading {
     position: absolute;
